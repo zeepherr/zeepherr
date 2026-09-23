@@ -84,4 +84,4 @@ Motorcycle shop management system uniting POS checkout, product inventory, servi
 
 ## 📫 Connect With Me
 
-[LinkedIn]([https://www.linkedin.com/in/sai-kwan-pha-39881a437]) • [Portfolio]([https://zeepherr-portfolio.vercel.app]) • [Email](mailto:zeepherr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sai-kwan-pha-39881a437) • [Portfolio](https://zeepherr-portfolio.vercel.app) • [Email](mailto:zeepherr@gmail.com)
