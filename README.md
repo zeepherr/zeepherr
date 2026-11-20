@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Zeepher 👋</h2>
+<h2 align="center">Zeepher</h2>
 <p align="center"><b>Full-Stack Developer</b> · React / Next.js · Node.js · TypeScript · PostgreSQL</p>
 
 <p align="center">
@@ -8,7 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=zeepherr&style=flat-square&color=0e75b6&label=Profile+views" alt="Profile views">
 </p>
 
-I build practical web apps with clean UI, layered backends, and real-world product workflows. Currently going deeper on Next.js App Router, advanced TypeScript, Docker, testing, and AI-assisted development.
+### About
+
+Full-stack developer working with TypeScript, React / Next.js, and Node.js. I build web applications end to end, from relational data models and REST APIs to responsive interfaces, with a focus on maintainable architecture and clean, well-structured code.
+
+**Current focus:** Next.js App Router · advanced TypeScript · Docker · automated testing · AI-assisted development
 
 ### 🛠 Tech Stack
 
