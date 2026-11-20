@@ -22,6 +22,6 @@ I build practical web apps with clean UI, layered backends, and real-world produ
   <img src="https://streak-stats.demolab.com?user=zeepherr&theme=github-dark-blue&hide_border=false" alt="GitHub streak" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeepherr&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&custom_title=Zeepher's%20GitHub%20Stats" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeepherr&show_icons=true&theme=github_dark&custom_title=Zeepher's%20GitHub%20Stats" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeepherr&layout=compact&langs_count=6&theme=github_dark" alt="Top languages" height="165">
 </p>
